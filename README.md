@@ -46,7 +46,7 @@ Left joined meal cost table and market segment to the unified table.
 
 **3. Extract data from SQL server into power  BI**
 
-Added data vua SQL server, copied the SQL queries used to join the sheets, and merged the tables.l
+Added data via SQL server, copied the SQL queries used to join the sheets, and merged the tables.l
 
 **4. Data transformation and manipulation.**
 
