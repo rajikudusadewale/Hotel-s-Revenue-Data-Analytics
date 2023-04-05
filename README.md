@@ -40,7 +40,9 @@ Selected revenue with hotels and grouped by the years.
 From the result, There is a increase in revenue for each hotel by years. 
 
 Merged market segment table and meal cost table to the unified table.
-Left joined meal cost table and market segment to the uified table. 
+Left joined meal cost table and market segment to the unified table. 
+
+![SQL Consolidated Table](https://github.com/rajikudusadewale/Hotel-s-Revenue-Data-Analytics/blob/main/consolidated%20table.jpg)
 
 **3. Extracted data from SQL server into power  BI**
 
@@ -50,7 +52,7 @@ Added data vua SQL server, copied the SQL queries used to join the sheets, and m
 
 Did data cleaning and transformation in Power Query. By changing datatypes where necessary, and dropping of dulplicated columns. Also, added a custom column for the hotels revenue. Craeted measures for total nights, discount percentage.
 
-## Link to the interactive dashboard (https://app.powerbi.com/view?r=eyJrIjoiMmY3ODIzYWQtOGY4Ni00NGJhLWEyNzEtMjEwZDZlZjAxOGFlIiwidCI6IjM3NzY1MTAyLWQwZjgtNDJmYi05NTQ3LTY1ZTAwMTllZDk1ZiJ9)
+#### Link to the interactive dashboard (https://app.powerbi.com/view?r=eyJrIjoiMmY3ODIzYWQtOGY4Ni00NGJhLWEyNzEtMjEwZDZlZjAxOGFlIiwidCI6IjM3NzY1MTAyLWQwZjgtNDJmYi05NTQ3LTY1ZTAwMTllZDk1ZiJ9)
 
 ## ANSWERS TO THE BUSINESS QUESTIONS;
 
