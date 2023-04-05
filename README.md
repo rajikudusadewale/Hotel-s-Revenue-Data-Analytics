@@ -26,7 +26,7 @@ goal:
  SQL Server was established using Microsoft SQL server 16, The project database was created under the  localhost SQL server. 
 Importation of the dataset into the database; the excel file was imported into the database. the file consists of five excel sheets, namely; 2018, 2019, 2020, market segment, and meal cost. 
 
-**2. Developed SQL Query**
+**2. Develop SQL Query**
 
 Used Union SQL query to develop the data 2018, 2019, and 2020 into a unified single table.  After the data merging, got a total of 100,756 rows with 32 columns.
 Used SQL Queries to answer this question;
@@ -44,7 +44,7 @@ Left joined meal cost table and market segment to the unified table.
 
 ![SQL Consolidated Table](https://github.com/rajikudusadewale/Hotel-s-Revenue-Data-Analytics/blob/main/consolidated%20table.jpg)
 
-**3. Extracted data from SQL server into power  BI**
+**3. Extract data from SQL server into power  BI**
 
 Added data vua SQL server, copied the SQL queries used to join the sheets, and merged the tables.l
 
@@ -53,6 +53,8 @@ Added data vua SQL server, copied the SQL queries used to join the sheets, and m
 Did data cleaning and transformation in Power Query. By changing datatypes where necessary, and dropping of dulplicated columns. Also, added a custom column for the hotels revenue. Craeted measures for total nights, discount percentage.
 
 #### Link to the interactive dashboard (https://app.powerbi.com/view?r=eyJrIjoiMmY3ODIzYWQtOGY4Ni00NGJhLWEyNzEtMjEwZDZlZjAxOGFlIiwidCI6IjM3NzY1MTAyLWQwZjgtNDJmYi05NTQ3LTY1ZTAwMTllZDk1ZiJ9)
+
+![Dashboard](https://github.com/rajikudusadewale/Hotel-s-Revenue-Data-Analytics/blob/main/Hotel_Revenue_Dashboard.jpg)
 
 ## ANSWERS TO THE BUSINESS QUESTIONS;
 
