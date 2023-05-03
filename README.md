@@ -17,7 +17,7 @@ Goals:
 Data source: *(https://absentdata.com/wp-content/uploads/2021/05/hotel_revenue_historical_full-2.xlsx)*
 
 **Tools Used:**  *SQL (Microsoft SQL Server Management Studio with Azure Data Studio), and Power BI (DAX, Power Query, and Power BI Service)*
-goal: 
+Goal: 
 
 
 ### DATA ANALYSIS PROJECT PIPELINE
