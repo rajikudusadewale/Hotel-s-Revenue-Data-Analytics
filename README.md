@@ -42,7 +42,7 @@ From the result, There is a increase in revenue for each hotel by years.
 Merged market segment table and meal cost table to the unified table.
 Left joined meal cost table and market segment to the unified table. 
 
-![SQL Consolidated Table](https://github.com/rajikudusadewale/Hotel-s-Revenue-Data-Analytics/blob/main/consolidated%20table.jpg)
+![SQL Query](https://github.com/rajikudusadewale/Hotel-s-Revenue-Data-Analytics/blob/main/Query_power_bi.jpg)
 
 **3. Extract data from SQL server into power  BI**
 
