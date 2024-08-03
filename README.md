@@ -52,7 +52,7 @@ Added data via SQL server, copied the SQL queries used to join the sheets, and m
 
 Did data cleaning and transformation in Power Query. By changing datatypes where necessary, and dropping of dulplicated columns. Also, added a custom column for the hotels revenue. Craeted measures for total nights, discount percentage.
 
-#### Link to the interactive dashboard (https://app.powerbi.com/view?r=eyJrIjoiMmY3ODIzYWQtOGY4Ni00NGJhLWEyNzEtMjEwZDZlZjAxOGFlIiwidCI6IjM3NzY1MTAyLWQwZjgtNDJmYi05NTQ3LTY1ZTAwMTllZDk1ZiJ9)
+#### [Link to the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmY3ODIzYWQtOGY4Ni00NGJhLWEyNzEtMjEwZDZlZjAxOGFlIiwidCI6IjM3NzY1MTAyLWQwZjgtNDJmYi05NTQ3LTY1ZTAwMTllZDk1ZiJ9)
 
 ![Dashboard](https://github.com/rajikudusadewale/Hotel-s-Revenue-Data-Analytics/blob/main/Hotel_Revenue_Dashboard.jpg)
 
